@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Challenge-1</string>
+    <string name="title_activity_dbhelper">DBHelper</string>
 </resources>
